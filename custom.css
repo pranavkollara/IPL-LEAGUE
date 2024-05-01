@@ -1,0 +1,61 @@
+
+
+
+.csk {
+  background-color: #ffcb05;
+  color: #0066b3;
+}
+
+.gt {
+  background-color: #0b1d34;
+  color: #f3dc8a;
+}
+
+.mi {
+  background-color: #083f88;
+  color: #001848;
+}
+.srh {
+  background-color: #e75900;
+  color: black;
+}
+.kkr {
+  background-color: #563089;
+  color: #ddab16;
+}
+.lsg {
+  background-color: hsl(217 99% 44%);
+  color: hsl(34 100% 47%);
+}
+.rr {
+  background-color: hsl(327 74% 67%);
+  color: hsl(232 81% 37%);
+}
+.rcb {
+  background-color: #e00c0b;
+  color: #f8dd81;
+}
+.pbks {
+  background-color: #ed1c24;
+  color: rgb(255, 222, 173);
+}
+.dc {
+  background-color: #17479e;
+  color: #d71920;
+  
+}
+.team {
+  width: min(80px, 16vw);
+}
+
+img{
+  width: min(60px,12vw);
+  margin-left: min(-0.5vw,-4px);
+  
+}
+
+.signup{
+max-width: max(30%,500px);
+border-radius: 20px;
+border:2px solid;
+}
